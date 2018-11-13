@@ -17,8 +17,7 @@ Installation
 
 Authors
 ------------
-
+* [Andreea Lutac](https://github.com/Andreea-L)
 * [Andrej Hoos](https://github.com/adikus)
 * [Niklas Zwingenberger](https://github.com/NiklasZ)
 * [Kajetan Stanski](https://github.com/kstanski)
-* [Andreea Lutac](https://github.com/Andreea-L)
