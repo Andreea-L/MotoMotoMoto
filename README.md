@@ -21,4 +21,4 @@ Authors
 * [Andrej Hoos](https://github.com/adikus)
 * [Niklas Zwingenberger](https://github.com/NiklasZ)
 * [Kajetan Stanski](https://github.com/kstanski)
-* [Andreea Lutac](https://github.com/AndreeaLutac)
+* [Andreea Lutac](https://github.com/Andreea-L)
